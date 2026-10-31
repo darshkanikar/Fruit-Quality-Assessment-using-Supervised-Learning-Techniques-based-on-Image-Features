@@ -192,20 +192,24 @@ Colour histograms + HOG descriptors + mean colour are concatenated to form a ric
 Predictions of each model (ANN, Naïve Bayes, KNN, Logistic Regression, Random Forest, SVM, YOLOv8, CNN) on sample images from the dataset.
 
 <p align="center">
-  <img src="assets/fig6_banana.png" alt="Banana classified by various models" width="650"/>
-  <br/><em>Fig. 6 – Banana classified by various models: (a) Original, (b) ANN, (c) Naïve Bayes, (d) KNN, (e) Logistic Regression, (f) Random Forest, (g) SVM, (h) YOLOv8, (i) CNN</em>
+  <img src="assets/fig6_banana.png" alt="Banana classified by Yolov8" width="650"/>
+  <br/><em>Fig. 6 – Banana classified by Yolov8</em>
 </p>
 
 <p align="center">
-  <img src="assets/fig7_pomegranate.png" alt="Pomegranate classified by various models" width="650"/>
-  <br/><em>Fig. 7 – Pomegranate classified by various models (same panel layout as Fig. 6)</em>
+  <img src="assets/fig7_pomegranate.png" alt="Pomegranate classified by Yolov8" width="650"/>
+  <br/><em>Fig. 7 – Pomegranate classified by Yolov8</em>
 </p>
 
 <p align="center">
-  <img src="assets/fig8_lime.png" alt="Lime classified by various models" width="650"/>
-  <br/><em>Fig. 8 – Lime classified by various models (same panel layout as Fig. 6)</em>
+  <img src="assets/fig8_lime.png" alt="Lime classified by Yolov8" width="650"/>
+  <br/><em>Fig. 8 – Lime classified by Yolov8</em>
 </p>
 
+<p align="center">
+  <img src="assets/fig9_apple.png" alt="Apple classified by Yolov8" width="650"/>
+  <br/><em>Fig. 8 – Apple classified by Yolov8</em>
+</p>
 ---
 
 ## ✅ Conclusion & Future Work
