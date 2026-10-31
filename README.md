@@ -38,14 +38,6 @@ Growing global population demands fruit production at scale, and traditional man
 
 The fruit quality inspection process follows five stages :
 
-```mermaid
-flowchart LR
-    A[1. Image Acquisition] --> B[2. Image Pre-processing]
-    B --> C[3. Image Segmentation]
-    C --> D[4. Feature Extraction]
-    D --> E[5. Classification]
-```
-
 <p align="center">
   <img src="assets/fig1_pipeline.png" alt="Processing stages in fruit quality detection" width="450"/>
   <br/><em>Fig. 1 – Processing stages in Fruit Quality Detection</em>
